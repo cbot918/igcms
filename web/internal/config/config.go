@@ -2,6 +2,7 @@ package config
 
 const (
   host     = "localhost"
+  // host = "bcb67bebca4a"
   port     = 5432
   user     = "postgres"
   password = "12345"
